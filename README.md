@@ -2,7 +2,7 @@
 Module 3 Challenge
 ##Overview of Election Audit
 The purpose the election audit is to certify the congressional race for a precinct in Colorado and determine if Python would be more well suited to determining election results over Excel. This particular precinct includes three counties and three candidates for the office. Python is being utilized to determine how well it automates the tasks of counting the votes, calculating percentages, and determining the winner of the election amonst other things.
-##Election Audit Results
+##Election Audit Result
 - How many votes were cast in this congressional election?
   -![Total Votes](https://user-images.githubusercontent.com/101011641/160279701-eba2506d-e1fc-4486-8408-44f8e30974d9.png)
   -369,711 votes were cast in this election
