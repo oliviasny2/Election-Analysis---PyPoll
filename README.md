@@ -13,7 +13,7 @@ The purpose the election audit is to certify the congressional race for a precin
   - The county with the most number of votes is Denver with 306,055
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   - ![Candidate votes and percentages](https://user-images.githubusercontent.com/101011641/160279893-1219e34f-7a58-4464-8910-aafacf07fbb8.png)
-  - Charles Casper Stockham had 85,213 votes, Diana DeGette had 272,892, and Raymon Anthony Doane had 11,606. The percentage of votes each accumulated was 23.0%, 73.8%, and 3.1%, respectively.
+  - Charles Casper Stockham had 85,213 votes, Diana DeGette had 272,892, and Raymon Anthony Doane had 11,606. The percentage of votes each accumulated was        23.0%, 73.8%, and 3.1%, respectively.
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   - Diana DeGette had the most votes, with 272,892 cast to her name. She had a whooping 73.8% of the votes.
 ##Election Audit Summary
